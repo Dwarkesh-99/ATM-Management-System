@@ -29,4 +29,4 @@ These instructions will help you set up and run on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/atm-management-system.git
+   git clone https://github.com/Dwarkesh-99/ATM-Management-System.git
